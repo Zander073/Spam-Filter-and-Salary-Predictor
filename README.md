@@ -4,3 +4,5 @@ There are two models in this repository. One model labels an email message as sp
 For more information on NBCs: https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 
 For more information on Logistic Regression: https://en.wikipedia.org/wiki/Logistic_regression
+
+Project was for CMSI 3300 (Artificial Intelligence)
